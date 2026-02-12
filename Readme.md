@@ -82,7 +82,7 @@ My exchange delivery just 4.7 $ ( 20 PLN ) at month because i don't have more mo
 
 - The minimum stakeable amount is 500 XNIQ.
 
-- Example: by freezing 500 DRX, after two weeks you will receive your initial 500 MRC back plus the staked amount - 5 XNIQ in this case.
+- Example: by freezing 500 XNIQ, after two weeks you will receive your initial 500 XNIQ back plus the staked amount - 5 XNIQ in this case.
 
 - Staked XNIQ get frozen and can not be used while the staking process is active. 
 
@@ -252,7 +252,7 @@ How to help?
 <h2 align="center">Developers</h2><br>
 
 *   **Developers:**
-    * [@XeRi-PL](https://github.com/TheVeilDarkness) (Founder/lead dev)
+    * [@XueNirro](https://github.com/TheVeilDarkness) (Founder/lead dev)
 <h2 align="center">About project : </h2><br>
 
 - XueniriQ ™ ("XNIQ's")- project started in 12.04.2021 y.

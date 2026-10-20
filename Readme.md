@@ -217,9 +217,15 @@ Official getting started guides for creating an account and setting up miners on
 Frequently asked questions and answers, troubleshooting help can be found in the [Wikis](https://github.com/TheVeilDarkness).<br>
 
 | Official Miners |
-[<img src="images/PCMINER.png">]()  |  [<img src="images/AVRMINER.png">]()   |  [<img src="images/GPUMINER.png">]()
+
+[<img src="images/PCMINER.png">]()
+
+[<img src="images/AVRMINER.png">]()   
+
+[<img src="images/GPUMINER2.png">]()
 
 | Official Wallet |
+
 [<img src="images/WALLET.png">]()
 
 <h2 align="center">Development</h2><br>
